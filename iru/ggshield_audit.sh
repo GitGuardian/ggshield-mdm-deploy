@@ -1,5 +1,5 @@
 #!/bin/bash
-# ggshield Audit Script for Kandji
+# ggshield Audit Script for Iru (formerly Kandji)
 #
 # Checks if ggshield is installed, up to date, and properly signed.
 # Exit 0 = pass (installed, up to date, valid signature)

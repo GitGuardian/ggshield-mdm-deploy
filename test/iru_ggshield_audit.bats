@@ -1,6 +1,6 @@
 #!/usr/bin/env bats
 
-SCRIPT="$BATS_TEST_DIRNAME/../kandji/ggshield_audit.sh"
+SCRIPT="$BATS_TEST_DIRNAME/../iru/ggshield_audit.sh"
 STUBS="$BATS_TEST_DIRNAME/stubs"
 
 setup() {

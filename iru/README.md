@@ -1,6 +1,6 @@
-# ggshield - Kandji Custom Scripts
+# ggshield - Iru Custom Scripts
 
-Kandji audit and remediation scripts to deploy and keep [ggshield](https://github.com/GitGuardian/ggshield) up to date on macOS.
+Iru (formerly Kandji) audit and remediation scripts to deploy and keep [ggshield](https://github.com/GitGuardian/ggshield) up to date on macOS.
 
 Inspired by [Installomator](https://github.com/Installomator/Installomator).
 
@@ -40,7 +40,7 @@ Symlink to
 Custom Script that points ggshield at a self-hosted GitGuardian instance for the logged-in console
 user. Edit the `INSTANCE_URL` variable at the top of the script before uploading.
 
-## Kandji Setup
+## Iru Setup
 
 1. Create a **Custom Script** library item
 2. Set `ggshield_audit.sh` as the **Audit Script**
